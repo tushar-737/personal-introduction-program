@@ -16,7 +16,7 @@ This is a simple Python program that collects user information and displays a fr
 
 1. Clone this repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/tushar-737/personal-introduction-program.git>
    ```
 
 2. Run the program:

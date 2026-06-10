@@ -1,40 +1,73 @@
->>>>Personal Introduction Program
+# Personal Introduction Program
 
->>>>>>Description
-This is a simple Python program that collects user information and displays a friendly welcome message.
+## Project Overview
 
->>> Features
-- Takes user input using `input()`
-- Stores data in variables
-- Uses f-strings for formatting
-- Displays a personalized welcome message
+This project is a beginner-friendly Python application developed as part of the Data Science Internship Week 1 task. The program collects basic information from the user and displays a personalized welcome message.
 
->>>>>Requirements
-- Python 3.x
+## Objectives
 
->>>> How to Run
+* Learn Python basics
+* Understand variables and user input
+* Practice using print statements
+* Create a simple interactive program
 
-1. Clone this repository:
-   ```bash
-   git clone <https://github.com/tushar-737/personal-introduction-program.git>
-   ```
+## Features
 
-2. Run the program:
-   ```bash
-   python personal_intro.py
-   ```
+* Takes user name as input
+* Takes user age as input
+* Takes user hobby as input
+* Takes user city as input
+* Displays a personalized welcome message
 
->>>>> Sample Output
+## Technologies Used
 
-What is your name? Alex
-How old are you? 21
+* Python 3
+
+## Setup Instructions
+
+1. Install Python 3 on your system.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run:
+
+```bash
+python personal_intro.py
+```
+
+## Sample Output
+
+```
+What is your name? Tushar
+How old are you? 20
 What is your favorite hobby? Coding
-What is your favorite food? Pizza
+Which city do you live in? Varanasi
 
-🎉 Welcome Alex! 🎉
-You are 21 years old and love Coding.
-It's great to know that your favorite food is Pizza.
-Hope you have an amazing day! 😊
+🎉 Welcome Tushar! 🎉
+You are 20 years old.
+You love Coding.
+You live in Varanasi.
+Have a great day and keep learning Python! 🚀
+```
 
->>>>>>> Author
-Tushar Gupta
+## What I Learned
+
+* Python syntax
+* Variables
+* User input using input()
+* Output using print()
+* String formatting using f-strings
+
+## Project Structure
+
+```
+Personal-Introduction-Program/
+│
+├── personal_intro.py
+├── requirements.txt
+├── README.md
+└── screenshot.png
+```
+
+## Testing
+
+The program was tested with different user inputs and successfully displayed personalized welcome messages without errors.

@@ -1,22 +1,22 @@
-# Personal Introduction Program
+>>>>Personal Introduction Program
 
-## Description
+>>>>>>Description
 This is a simple Python program that collects user information and displays a friendly welcome message.
 
-## Features
+>>> Features
 - Takes user input using `input()`
 - Stores data in variables
 - Uses f-strings for formatting
 - Displays a personalized welcome message
 
-## Requirements
+>>>>>Requirements
 - Python 3.x
 
-## How to Run
+>>>> How to Run
 
 1. Clone this repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/tushar-737/personal-introduction-program.git>
    ```
 
 2. Run the program:
@@ -24,7 +24,7 @@ This is a simple Python program that collects user information and displays a fr
    python personal_intro.py
    ```
 
-## Sample Output
+>>>>> Sample Output
 
 What is your name? Alex
 How old are you? 21
@@ -36,5 +36,5 @@ You are 21 years old and love Coding.
 It's great to know that your favorite food is Pizza.
 Hope you have an amazing day! 😊
 
-## Author
+>>>>>>> Author
 Tushar Gupta
